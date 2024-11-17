@@ -27,7 +27,7 @@
 	"dependencies": {
 		"bin-check": "git+https://github.com/iceriver102/bin-check.git",
 		"bin-version-check": "^6.0.0",
-		"download": "^7.1.0",
+		"download": "git+https://github.com/iceriver102/download.git",
 		"import-lazy": "^3.1.0",
 		"os-filter-obj": "^2.0.0",
 		"pify": "^4.0.1"
