@@ -25,7 +25,7 @@
 		"wrapper"
 	],
 	"dependencies": {
-		"bin-check": "^4.1.0",
+		"bin-check": "git+https://github.com/iceriver102/bin-check.git",
 		"bin-version-check": "^6.0.0",
 		"download": "^7.1.0",
 		"import-lazy": "^3.1.0",
